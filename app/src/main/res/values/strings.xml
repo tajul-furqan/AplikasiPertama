@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPertama</string>
+
+    <string name="hello_world">Hello world tajul furqan!</string>
+    <string name="apakabar_dunia">apa kabar tajul furqan!!!</string>
+    <string name="tombol_terjemahan">Terjemahkan</string>
+    <string name="action_settings">Settings</string>
+</resources>
